@@ -1,0 +1,4 @@
+Name: Geoffrey Timothy
+Student Id : S3829305G
+GitHub Repo :https://github.com/geotimothy/IntrotoInfoTech
+GitHub Page : https://geotimothy.github.io/IntrotoInfoTech/
